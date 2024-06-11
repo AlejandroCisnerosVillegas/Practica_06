@@ -1,3 +1,3 @@
-# Practica 06 
-## _Login Básico en HTML, CSS, SQL y PHP_
-Un login sencillo que se conecta con una base de datos solicitando los datos de usuarios y contraseñas registrados.
+# Sistema de Autenticación de Usuarios
+## _Área: Prácticas_
+La práctica implementada se trata de un sistema de autenticación de usuarios desarrollado utilizando HTML, CSS y PHP. Este sistema permite a los usuarios iniciar sesión en una aplicación web proporcionando un nombre de usuario y una contraseña.
