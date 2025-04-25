@@ -16,7 +16,7 @@ Si las credenciales son válidas, se muestra un mensaje de bienvenida al usuario
 
 El sistema de autenticación de usuarios proporciona una capa de seguridad para restringir el acceso a determinadas partes de una aplicación web. Al utilizar tecnologías estándar web como HTML, CSS y PHP, se garantiza la compatibilidad y la accesibilidad en diferentes entornos de desarrollo. Esta implementación puede servir como base para la construcción de sistemas más complejos de gestión de usuarios y roles en aplicaciones web.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_06.com](https://alejandrovillegas.net/projects/practice-06/index.html)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_06.com](https://www.alejandrovillegas.dev/projects/practice-06/index.html)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 30 de junio de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
